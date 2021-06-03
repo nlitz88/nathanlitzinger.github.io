@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nathanlitzinger.github.io/sitemap.xml
