@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Nathan Litzinger</title>
-    <link>https://nathanlitzinger.github.io/projects/</link>
+    <link>https://nlitz88.github.io/projects/</link>
     <description>Recent content in Projects on Nathan Litzinger</description>
     <image>
-      <url>https://nathanlitzinger.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nathanlitzinger.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 May 2021 14:31:00 -0400</lastBuildDate><atom:link href="https://nathanlitzinger.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 May 2021 14:31:00 -0400</lastBuildDate><atom:link href="https://nlitz88.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MIPS Mini CPU - 5 Stage Pipeline in Verilog</title>
-      <link>https://nathanlitzinger.github.io/projects/mipscpu/</link>
+      <link>https://nlitz88.github.io/projects/mipscpu/</link>
       <pubDate>Sat, 01 May 2021 14:31:00 -0400</pubDate>
       
-      <guid>https://nathanlitzinger.github.io/projects/mipscpu/</guid>
+      <guid>https://nlitz88.github.io/projects/mipscpu/</guid>
       <description>As a conclusion to my computer organization course, our final project was to implement a five stage pipeline constructed in Verilog over an FPGA partially implementing the MIPS instruction set.
 Abstract The following details the development of a five stage pipeline constructed on Xilinx&amp;rsquo;s Vivado in Verilog over an FPGA partially implementing the MIPS instruction set. In its current configuration, it supports only basic R-Format instructions like add, sub, and, or, etc.</description>
     </item>
