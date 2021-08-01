@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nlitz88.github.io/posts/chia10kplotting/chia_1/</loc>
-    <lastmod>2021-05-30T20:58:21-04:00</lastmod>
+    <loc>https://nlitz88.github.io/posts/hugonotes/hugonotes/</loc>
+    <lastmod>2021-06-02T21:35:29-04:00</lastmod>
   </url><url>
     <loc>https://nlitz88.github.io/</loc>
-    <lastmod>2021-05-30T20:58:21-04:00</lastmod>
+    <lastmod>2021-06-02T21:35:29-04:00</lastmod>
   </url><url>
     <loc>https://nlitz88.github.io/posts/</loc>
+    <lastmod>2021-06-02T21:35:29-04:00</lastmod>
+  </url><url>
+    <loc>https://nlitz88.github.io/posts/chia10kplotting/chia_1/</loc>
     <lastmod>2021-05-30T20:58:21-04:00</lastmod>
   </url><url>
     <loc>https://nlitz88.github.io/projects/mipscpu/</loc>
