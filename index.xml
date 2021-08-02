@@ -30,6 +30,16 @@ Fortunately for me and many other homelab and mining enthusiasts, farming Chia i
     </item>
     
     <item>
+      <title>TestProject</title>
+      <link>https://nlitz88.github.io/projects/testproject/testproject/</link>
+      <pubDate>Fri, 21 May 2021 13:49:03 -0400</pubDate>
+      
+      <guid>https://nlitz88.github.io/projects/testproject/testproject/</guid>
+      <description>This is my first project!  First ordered list item Another item   Unordered sub-list.   Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number  Ordered sub-list   And another item.  ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).
+⋅⋅⋅ To have a line break without a paragraph, you will need to use two trailing spaces.</description>
+    </item>
+    
+    <item>
       <title>MIPS Mini CPU - 5 Stage Pipeline in Verilog</title>
       <link>https://nlitz88.github.io/projects/mipscpu/</link>
       <pubDate>Sat, 01 May 2021 14:31:00 -0400</pubDate>
