@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nathan Litzinger</title>
-    <link>https://nlitz88.github.io/</link>
-    <description>Recent content on Nathan Litzinger</description>
+    <title>Posts on Nathan Litzinger</title>
+    <link>https://nlitz88.github.io/posts/</link>
+    <description>Recent content in Posts on Nathan Litzinger</description>
     <image>
       <url>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Jun 2021 21:35:29 -0400</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jun 2021 21:35:29 -0400</lastBuildDate><atom:link href="https://nlitz88.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HugoNotes</title>
       <link>https://nlitz88.github.io/posts/hugonotes/hugonotes/</link>
@@ -27,26 +27,6 @@
       <guid>https://nlitz88.github.io/posts/chia10kplotting/chia_1/</guid>
       <description>As my fourth semester was just wrapping up, I was getting ready to take a few much needed weeks off before work and unwind just a little bit. Two days after my last final, however, I found out about Chia. Needless to say, I guess I never got to stop!
 Fortunately for me and many other homelab and mining enthusiasts, farming Chia is a lot of fun. And by fun, I mean spending ludacris amounts of money on enterprise hardware that we would otherwise never have an excuse to buy.</description>
-    </item>
-    
-    <item>
-      <title>TestProject</title>
-      <link>https://nlitz88.github.io/projects/testproject/testproject/</link>
-      <pubDate>Fri, 21 May 2021 13:49:03 -0400</pubDate>
-      
-      <guid>https://nlitz88.github.io/projects/testproject/testproject/</guid>
-      <description>This is my first project!  First ordered list item Another item   Unordered sub-list.   Actual numbers don&amp;rsquo;t matter, just that it&amp;rsquo;s a number  Ordered sub-list   And another item.  ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we&amp;rsquo;ll use three here to also align the raw Markdown).
-⋅⋅⋅ To have a line break without a paragraph, you will need to use two trailing spaces.</description>
-    </item>
-    
-    <item>
-      <title>MIPS Mini CPU - 5 Stage Pipeline in Verilog</title>
-      <link>https://nlitz88.github.io/projects/mipscpu/mipscpu/</link>
-      <pubDate>Sat, 01 May 2021 14:31:00 -0400</pubDate>
-      
-      <guid>https://nlitz88.github.io/projects/mipscpu/mipscpu/</guid>
-      <description>As a conclusion to my computer organization course, our final project was to implement a five stage pipeline constructed in Verilog over an FPGA partially implementing the MIPS instruction set.
-Abstract The following details the development of a five stage pipeline constructed on Xilinx&amp;rsquo;s Vivado in Verilog over an FPGA partially implementing the MIPS instruction set. In its current configuration, it supports only basic R-Format instructions like add, sub, and, or, etc.</description>
     </item>
     
     <item>
