@@ -9,7 +9,17 @@
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 May 2021 14:31:00 -0400</lastBuildDate><atom:link href="https://nlitz88.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 03:25:10 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FS3 - My Mock File System</title>
+      <link>https://nlitz88.github.io/projects/filesystem/filesystem/</link>
+      <pubDate>Wed, 15 Dec 2021 03:25:10 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/projects/filesystem/filesystem/</guid>
+      <description>As my Fall 2021 semester comes to a close, I made the final commits to perhaps one of the most interesting projects I&amp;rsquo;ve had the pleasure of stressing about thus far in school: building a file system.
+ Err&amp;ndash;okay, I won&amp;rsquo;t sit here and pretend that my classmates and I built out fully fledged filesystems ready to be thrown into Ubuntu for production. However, that wasn&amp;rsquo;t quite the point of this assignment.</description>
+    </item>
+    
     <item>
       <title>MIPS Mini CPU - 5 Stage Pipeline in Verilog</title>
       <link>https://nlitz88.github.io/projects/mipscpu/mipscpu/</link>
