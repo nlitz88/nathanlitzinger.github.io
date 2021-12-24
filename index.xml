@@ -50,5 +50,14 @@ Abstract The following details the development of a five stage pipeline construc
 As a Sophomore in the Penn State New Kensington Honors Program, this was my year to participate!</description>
     </item>
     
+    <item>
+      <title>My First QuinLED Dig Uno Project</title>
+      <link>https://nlitz88.github.io/projects/2020leds/2020leds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/projects/2020leds/2020leds/</guid>
+      <description>Note: This is more of just a retrospective post. I worked on this whole ordeal about a year ago and am only now finding the time to really document it. I just figured I&amp;rsquo;d throw up a few pictures of it and talk a little bit about it. Last winter break I became obsessed with individually addressable LEDs. More specifically, I was interested in controlling them. Soon enough, I found myself lost in the world of ESP based controllers and almost sank entirely into the home-assistant/home-automation world trying to find a good controller that</description>
+    </item>
+    
   </channel>
 </rss>
