@@ -9,7 +9,26 @@
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Dec 2021 03:25:10 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 20:22:21 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Discrete Fourier Transform - Conceptual Overview and Practical Notes</title>
+      <link>https://nlitz88.github.io/posts/dft/dft/</link>
+      <pubDate>Sun, 24 Apr 2022 20:22:21 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/dft/dft/</guid>
+      <description>This Spring (2022), I took my first signal processing class. One of the most interesting things we covered was the Fourier Transform, and more practically, the Discrete Time Fourier Transform.
+I&amp;rsquo;m posting the PDF below as a reference for later projects, mainly to serve as a conceptual reminder of some of the concepts explaining the transform and how to do it. Though its covered on the Discrete Fourier Transform, the underlying principles are roughly the same for the DTFT (which we compute using fft).</description>
+    </item>
+    
+    <item>
+      <title>Building a Bird Feeder Live Stream</title>
+      <link>https://nlitz88.github.io/posts/birdstream/birdstream/</link>
+      <pubDate>Thu, 06 Jan 2022 06:11:36 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/birdstream/birdstream/</guid>
+      <description>As my Spring 2021 semester was nearing completion, I found myself looking for ways to &amp;ldquo;productively procrastinate&amp;rdquo; studying for finals. Like many others at the time, COVID had led my family to resurrect our bird feeders as another at-home distraction. While it was fun seeing all kinds of new birds emerge from our woods, I soon found myself in a predicament: I couldn&amp;rsquo;t see the birds for the majority of the day.</description>
+    </item>
+    
     <item>
       <title>FS3 - My Mock File System</title>
       <link>https://nlitz88.github.io/projects/filesystem/filesystem/</link>
