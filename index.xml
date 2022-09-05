@@ -9,7 +9,17 @@
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Apr 2022 20:22:21 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 18:34:07 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bird Detection With YOLOv7</title>
+      <link>https://nlitz88.github.io/posts/birddetection/birddetection/</link>
+      <pubDate>Mon, 05 Sep 2022 18:34:07 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/birddetection/birddetection/</guid>
+      <description>Thanks to this tutorial from TheCodingBug, I was able to use YOLOv7 to create a very primitive bird detection network. I scraped some generic Pennsylvania bird images, labelled them with a single &amp;ldquo;bird&amp;rdquo; class, and let YOLO work its magic overnight.
+For only an evening&amp;rsquo;s worth of work, I am extremely happy with the results. No&amp;ndash;it&amp;rsquo;s not perfect, but it&amp;rsquo;s REALLY promising. With the amount of footage I have recorded and can potentially label in time, I have no doubt that I&amp;rsquo;ll be able to fine tune this model for our feeders and improve its recall even more.</description>
+    </item>
+    
     <item>
       <title>The Discrete Fourier Transform - Conceptual Overview and Practical Notes</title>
       <link>https://nlitz88.github.io/posts/dft/dft/</link>
