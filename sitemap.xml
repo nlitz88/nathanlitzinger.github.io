@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nlitz88.github.io/posts/birddetection/birddetection/</loc>
-    <lastmod>2022-09-05T18:34:07+00:00</lastmod>
+    <loc>https://nlitz88.github.io/posts/dockernetworking/dockernetworking/</loc>
+    <lastmod>2023-01-05T00:30:35+00:00</lastmod>
   </url><url>
     <loc>https://nlitz88.github.io/</loc>
-    <lastmod>2022-09-05T18:34:07+00:00</lastmod>
+    <lastmod>2023-01-05T00:30:35+00:00</lastmod>
   </url><url>
     <loc>https://nlitz88.github.io/posts/</loc>
+    <lastmod>2023-01-05T00:30:35+00:00</lastmod>
+  </url><url>
+    <loc>https://nlitz88.github.io/posts/birddetection/birddetection/</loc>
     <lastmod>2022-09-05T18:34:07+00:00</lastmod>
   </url><url>
     <loc>https://nlitz88.github.io/posts/dft/dft/</loc>

@@ -9,7 +9,17 @@
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Sep 2022 18:34:07 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 00:30:35 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Networking: It&#39;s Not Magic!</title>
+      <link>https://nlitz88.github.io/posts/dockernetworking/dockernetworking/</link>
+      <pubDate>Thu, 05 Jan 2023 00:30:35 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/dockernetworking/dockernetworking/</guid>
+      <description>For as long as I&amp;rsquo;ve been learning Docker, I&amp;rsquo;ve never had a good reason to sit down and try to understand some of the mystical Docker networking mechanisms that make spinning up a container so effortless. That is until yesterday when I was scratching my head wondering why one of my containers wasn&amp;rsquo;t resolving my network&amp;rsquo;s internal hostnames!
+See, after a while of digging, it ocurred to me that the way Docker&amp;rsquo;s container networks operate is strikingly similar to that of traditional networking.</description>
+    </item>
+    
     <item>
       <title>Bird Detection With YOLOv7</title>
       <link>https://nlitz88.github.io/posts/birddetection/birddetection/</link>
