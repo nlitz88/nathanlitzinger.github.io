@@ -5,10 +5,12 @@
     <link>https://nlitz88.github.io/posts/</link>
     <description>Recent content in Posts on Nathan Litzinger</description>
     <image>
+      <title>Nathan Litzinger</title>
       <url>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 05 Jan 2023 00:30:35 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Networking: It&#39;s Not Magic!</title>
@@ -50,6 +52,16 @@ I&amp;rsquo;m posting the PDF below as a reference for later projects, mainly to
     </item>
     
     <item>
+      <title>FS3 - My Mock File System</title>
+      <link>https://nlitz88.github.io/posts/filesystem/filesystem/</link>
+      <pubDate>Wed, 15 Dec 2021 03:25:10 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/filesystem/filesystem/</guid>
+      <description>As my Fall 2021 semester comes to a close, I made the final commits to perhaps one of the most interesting projects I&amp;rsquo;ve had the pleasure of stressing about thus far in school: building a file system.
+Err&amp;ndash;okay, I won&amp;rsquo;t sit here and pretend that my classmates and I built out fully fledged filesystems ready to be thrown into Ubuntu for production. However, that wasn&amp;rsquo;t quite the point of this assignment.</description>
+    </item>
+    
+    <item>
       <title>My Chia Mine - Plotting With 10K SAS Drives</title>
       <link>https://nlitz88.github.io/posts/chia10kplotting/chia_1/</link>
       <pubDate>Sun, 30 May 2021 20:58:21 -0400</pubDate>
@@ -60,6 +72,16 @@ Fortunately for me and many other homelab and mining enthusiasts, farming Chia i
     </item>
     
     <item>
+      <title>MIPS Mini CPU - 5 Stage Pipeline in Verilog</title>
+      <link>https://nlitz88.github.io/posts/mipscpu/mipscpu/</link>
+      <pubDate>Sat, 01 May 2021 14:31:00 -0400</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/mipscpu/mipscpu/</guid>
+      <description>As a conclusion to my computer organization course, our final project was to implement a five stage pipeline constructed in Verilog over an FPGA partially implementing the MIPS instruction set.
+Abstract The following details the development of a five stage pipeline constructed on Xilinx&amp;rsquo;s Vivado in Verilog over an FPGA partially implementing the MIPS instruction set. In its current configuration, it supports only basic R-Format instructions like add, sub, and, or, etc.</description>
+    </item>
+    
+    <item>
       <title>Penn State New Kensington Research Expo - Blockchain Technology</title>
       <link>https://nlitz88.github.io/posts/blockchainproject/blockchainproject/</link>
       <pubDate>Fri, 09 Apr 2021 23:52:53 -0400</pubDate>
@@ -67,6 +89,15 @@ Fortunately for me and many other homelab and mining enthusiasts, farming Chia i
       <guid>https://nlitz88.github.io/posts/blockchainproject/blockchainproject/</guid>
       <description>Each year, Penn State New Kensington holds their Research and Student Engagement Expo where Penn State students like myself get to present their research findings to faculty and other students. Despite being held virtually as a consequence of the Pandemic, all of us seemed to persevere and come through with some really interesting projects and topics. You can find the main page for all of the projects here.
 As a Sophomore in the Penn State New Kensington Honors Program, this was my year to participate!</description>
+    </item>
+    
+    <item>
+      <title>My First QuinLED Dig Uno Project</title>
+      <link>https://nlitz88.github.io/posts/2020leds/2020leds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nlitz88.github.io/posts/2020leds/2020leds/</guid>
+      <description>Note: This is more of just a retrospective post. I worked on this whole ordeal about a year ago and am only now finding the time to really document it. I just figured I&amp;rsquo;d throw up a few pictures of it and talk a little bit about it. Last winter break I became obsessed with individually addressable LEDs. More specifically, I was interested in controlling them. Soon enough, I found myself lost in the world of ESP based controllers and almost sank entirely into the home-assistant/home-automation world trying to find a good controller that</description>
     </item>
     
   </channel>

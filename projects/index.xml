@@ -5,10 +5,12 @@
     <link>https://nlitz88.github.io/projects/</link>
     <description>Recent content in Projects on Nathan Litzinger</description>
     <image>
+      <title>Nathan Litzinger</title>
       <url>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://nlitz88.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Wed, 15 Dec 2021 03:25:10 +0000</lastBuildDate><atom:link href="https://nlitz88.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FS3 - My Mock File System</title>
